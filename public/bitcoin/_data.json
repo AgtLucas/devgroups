@@ -13,7 +13,7 @@
         "description": "The main Bitcoin discussion forum, includes subforums for technical support, mining, development and economics.",
         "lang": "EN-US",
         "image": "bitcointalk.jpg",
-        "channel": "Site",
+        "channel": "s",
         "publish": true,
         "published_at": "20110623"
       }
