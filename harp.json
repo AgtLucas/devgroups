@@ -28,6 +28,6 @@
     "utm": "utm_source=devgroups&utm_medium=medium&utm_campaign=DevGroups",
     "platforms": ["bitcoin", "nodejs", "javascript", "meteor", 
                   "go", "react", "angularjs",
-                  "elixir"]
+                  "elixir", "emberjs"]
   }
 }
