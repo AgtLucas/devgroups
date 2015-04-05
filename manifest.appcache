@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-05T17:57:19.755Z
+# rev 1 - 2015-04-05T19:01:08.549Z
 
 CACHE:
 http://devgroups.org/404.html
@@ -25,19 +25,34 @@ http://devgroups.org/assets/images/craterio.jpg
 http://devgroups.org/assets/images/devgroups-128.png
 http://devgroups.org/assets/images/devgroups-thumb.png
 http://devgroups.org/assets/images/devgroups.png
+http://devgroups.org/assets/images/django.jpg
 http://devgroups.org/assets/images/echojs.jpg
 http://devgroups.org/assets/images/elixir.jpg
 http://devgroups.org/assets/images/emberjs.jpg
+http://devgroups.org/assets/images/git.jpg
 http://devgroups.org/assets/images/go.jpg
+http://devgroups.org/assets/images/groovy.jpg
+http://devgroups.org/assets/images/haskell.jpg
+http://devgroups.org/assets/images/ios.jpg
+http://devgroups.org/assets/images/java.jpg
 http://devgroups.org/assets/images/javascript.jpg
 http://devgroups.org/assets/images/meteor-brasil-facebook.jpg
 http://devgroups.org/assets/images/meteor.jpg
 http://devgroups.org/assets/images/nodejs.jpg
 http://devgroups.org/assets/images/pernambucojs.jpg
+http://devgroups.org/assets/images/php-brasil.jpg
+http://devgroups.org/assets/images/php-forum.jpg
+http://devgroups.org/assets/images/php-mania.jpg
+http://devgroups.org/assets/images/php.jpg
 http://devgroups.org/assets/images/react.jpg
 http://devgroups.org/assets/images/riojs.jpg
 http://devgroups.org/assets/images/rsjs.jpg
+http://devgroups.org/assets/images/ruby-brasil-facebook.jpg
+http://devgroups.org/assets/images/ruby-on-rails-brasil-facebook.jpg
+http://devgroups.org/assets/images/ruby-user-groups.jpg
+http://devgroups.org/assets/images/ruby.jpg
 http://devgroups.org/assets/images/sampajs.jpg
+http://devgroups.org/assets/images/scala.jpg
 http://devgroups.org/assets/js/aightjs.gz.js
 http://devgroups.org/assets/js/aightjs.min.js
 http://devgroups.org/assets/js/application.gz.js
@@ -53,9 +68,11 @@ http://devgroups.org/index.html
 http://devgroups.org/javascript/index.html
 http://devgroups.org/meteor/index.html
 http://devgroups.org/nodejs/index.html
+http://devgroups.org/php/index.html
 http://devgroups.org/react/index.html
 http://devgroups.org/robots.txt
 http://devgroups.org/rss.xml
+http://devgroups.org/ruby/index.html
 
 NETWORK:
 *
