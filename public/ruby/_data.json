@@ -1,0 +1,169 @@
+{
+  "index": {
+    "name": "ruby",
+    "subtitle": "Ruby",
+    "about": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+    "site": "https://www.ruby-lang.org",
+    "image": "ruby.jpg",
+    "description": "See all main Ruby groups and communities around the world!",
+    "devgroups": [
+      {
+        "title": "Ruby User Groups",
+        "url": "http://rubyusergroups.org",
+        "description": "A site with a huge list of ruby user groups around the world.",
+        "image": "ruby-user-groups.jpg",
+        "lang": "EN-US",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby Forum",
+        "url": "https://www.ruby-forum.com",
+        "description": "The official Ruby Forum.",
+        "lang": "EN-US",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rails: Core",
+        "url": "https://groups.google.com/forum/#!forum/rubyonrails-core",
+        "description": "A public discussion list about Rails core.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Rails-BR",
+        "url": "https://groups.google.com/forum/#!forum/rails-br",
+        "description": "A mailing list for Rails developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby << Portuguese",
+        "url": "https://groups.google.com/forum/#!forum/ruby-pt",
+        "description": "A mailing list for Ruby developers from Portugal.",
+        "lang": "PT",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rio",
+        "url": "https://groups.google.com/forum/#!forum/rubyonrio",
+        "description": "Another mailing list for Ruby/Rails developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rails Community",
+        "url": "https://plus.google.com/communities/102406850580404903942",
+        "description": "An american community for posting news, demos and discussions about Ruby On Rails.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby Brasil Community",
+        "url": "https://plus.google.com/communities/111404252112430775790",
+        "description": "A brazilian community for developers who works or wanna learn about Ruby.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby Community",
+        "url": "https://plus.google.com/communities/101878695540653445908",
+        "description": "A community from USA for Rubyist developers.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby on Rails LinkedIn",
+        "url": "https://www.linkedin.com/groups?gid=22413",
+        "description": "This is a group for professionals specializing in Ruby on Rails application development.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby on Rails Brasil LinkedIn",
+        "url": "https://www.linkedin.com/groups/Ruby-on-Rails-BRASIL-160865",
+        "description": "This is a brazilian LinkedIn group about Ruby on Rails framework.",
+        "lang": "PT-BR",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rails Brasil Facebook",
+        "url": "https://www.facebook.com/groups/rubyonrailsbrasil",
+        "description": "A brazilian Facebook group for Rails developers",
+        "image": "ruby-on-rails-brasil-facebook.jpg",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rails Facebook",
+        "url": "https://www.facebook.com/groups/railsrocks",
+        "description": "A Ruby On Rails Facebook group from USA.",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby On Rails Jobs Facebook",
+        "url": "https://www.facebook.com/groups/rubyontherails",
+        "description": "A Ruby On Rails Facebook group for developers find Rails jobs.",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby Facebook",
+        "url": "https://www.facebook.com/groups/2221017023",
+        "description": "A Facebook group for Ruby developers.",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby BR Facebook",
+        "url": "https://www.facebook.com/groups/rubybrasil",
+        "description": "A brazilian Facebook group for Ruby developers.",
+        "image": "ruby-brasil-facebook.jpg",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      },
+      {
+        "title": "Ruby Brasil Facebook",
+        "url": "https://www.facebook.com/groups/735446619838031",
+        "description": "Another brazilian Facebook group for Ruby developers.",
+        "image": "ruby-brasil-facebook.jpg",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150405"
+      }
+    ]
+  }
+}

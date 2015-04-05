@@ -23,7 +23,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "url": "group's url",
       "image": "group-logo.jpg",// 350x195 size
       "lang": "group language. Ex.: EN, PT-BR, ES..",
-      "channel": "s", // s=Site, fg=Facebook Group, lg=LinkedIn Group, gg=Google Groups or gc=Google+ Community
+      "channel": "s", // s=Site, sl=Slack, fg=Facebook Group, lg=LinkedIn Group, gg=Google Groups or gc=Google+ Community
       "publish": true, // Publish to devgroups site
       "published_at": "20150330" // Current publish date in format YYYYMMDD
     }

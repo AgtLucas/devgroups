@@ -16,6 +16,15 @@
         "channel": "s",
         "publish": true,
         "published_at": "20110623"
+      },
+      {
+        "title": "Bitcoin Discussion",
+        "url": "https://groups.google.com/forum/#!forum/bitcoin-discussion",
+        "description": "A Bitcoin Google groups mailing list.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20110623"
       }
     ]
   }

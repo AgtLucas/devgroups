@@ -1,0 +1,186 @@
+{
+  "index": {
+    "name": "php",
+    "subtitle": "PHP",
+    "about": "PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.",
+    "site": "https://php.net/",
+    "image": "php.jpg",
+    "description": "See all main PHP groups, forums and communities around the world!",
+    "devgroups": [
+      {
+        "title": "PHP Mania",
+        "url": "http://www.phpmania.org",
+        "description": "A brazilian forum about PHP",
+        "image": "php-mania.jpg",
+        "lang": "PT-BR",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Brasil Forum",
+        "url": "http://phpbrasil.com",
+        "description": "Another famous brazilian forum for PHP developers",
+        "image": "php-brasil.jpg",
+        "lang": "PT-BR",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Forum",
+        "url": "http://www.php-forum.com",
+        "description": "A forum for PHP american developers.",
+        "image": "php-forum.jpg",
+        "lang": "EN-US",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Comp.Lang.PHP",
+        "url": "https://groups.google.com/forum/#!forum/comp.lang.php",
+        "description": "A Google groups for PHP developers around the world.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP-Brasil",
+        "url": "https://groups.google.com/forum/#!forum/php-brasil",
+        "description": "A Google groups for PHP developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Lista PHP",
+        "url": "https://groups.google.com/forum/#!forum/listaphp",
+        "description": "Another Google groups for PHP developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "CakePHP",
+        "url": "https://groups.google.com/forum/#!forum/cake-php",
+        "description": "A Google groups for CakePHP framework developers.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Zend Framework Brasil",
+        "url": "https://groups.google.com/forum/#!forum/zfbrasil",
+        "description": "A Google groups for Zend Framework developers from Brazil.",
+        "lang": "PT-BR",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "Zend Framework Developers",
+        "url": "https://groups.google.com/forum/#!forum/zfdevelopers",
+        "description": "The official mailing list about Zend Framework.",
+        "lang": "EN-US",
+        "channel": "gg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Brasil Facebook",
+        "url": "https://www.facebook.com/groups/nao.tem.biscoito",
+        "description": "A brazilian facebook group for PHP developers.",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Brasil Facebook",
+        "url": "https://www.facebook.com/groups/nao.tem.biscoito",
+        "description": "A brazilian facebook group for PHP developers.",
+        "lang": "PT-BR",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Developers Facebook",
+        "url": "https://www.facebook.com/groups/Programming.Mafia",
+        "description": "A Facebook group for PHP developers.",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Programmers",
+        "url": "https://plus.google.com/communities/104245651975268426012",
+        "description": "A Google+ community for PHP Programmers.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Developers G+",
+        "url": "https://plus.google.com/communities/117288116158934932824",
+        "description": "Another Google+ community about PHP.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Developers G+",
+        "url": "https://plus.google.com/communities/117288116158934932824",
+        "description": "Another Google+ community about PHP.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Developers Resources",
+        "url": "https://plus.google.com/communities/112519434668485567645",
+        "description": "Another Google+ community about PHP with daily posts.",
+        "lang": "EN-US",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Brasil G+",
+        "url": "https://plus.google.com/communities/106163623473782778474",
+        "description": "A brazilian Google+ community about PHP.",
+        "lang": "PT-BR",
+        "channel": "gc",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Developers LinkedIn",
+        "url": "https://www.linkedin.com/groups/PHP-Developers-42140",
+        "description": "A LinkedIn group for PHP developers around the world.",
+        "lang": "EN-US",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      },
+      {
+        "title": "PHP Brasil LinkedIn",
+        "url": "https://www.linkedin.com/groups/PHP-Brasil-1554437",
+        "description": "A brazilian LinkedIn group about PHP.",
+        "lang": "PT-BR",
+        "channel": "lg",
+        "publish": true,
+        "published_at": "20150403"
+      }
+    ]
+  }
+}
