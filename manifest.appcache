@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-05T19:01:08.549Z
+# rev 1 - 2015-04-07T13:53:43.086Z
 
 CACHE:
 http://devgroups.org/404.html
@@ -17,6 +17,8 @@ http://devgroups.org/assets/font/opensans.svg
 http://devgroups.org/assets/font/opensans.ttf
 http://devgroups.org/assets/font/opensans.woff
 http://devgroups.org/assets/images/angularjs-developers.jpg
+http://devgroups.org/assets/images/angularjs-london-meetup.jpg
+http://devgroups.org/assets/images/angularjs-paris-meetup.jpg
 http://devgroups.org/assets/images/angularjs.jpg
 http://devgroups.org/assets/images/bitcoin.jpg
 http://devgroups.org/assets/images/bitcointalk.jpg
@@ -38,6 +40,8 @@ http://devgroups.org/assets/images/java.jpg
 http://devgroups.org/assets/images/javascript.jpg
 http://devgroups.org/assets/images/meteor-brasil-facebook.jpg
 http://devgroups.org/assets/images/meteor.jpg
+http://devgroups.org/assets/images/nodejs-club-sf.jpg
+http://devgroups.org/assets/images/nodejs-paris.jpg
 http://devgroups.org/assets/images/nodejs.jpg
 http://devgroups.org/assets/images/pernambucojs.jpg
 http://devgroups.org/assets/images/php-brasil.jpg
@@ -53,6 +57,8 @@ http://devgroups.org/assets/images/ruby-user-groups.jpg
 http://devgroups.org/assets/images/ruby.jpg
 http://devgroups.org/assets/images/sampajs.jpg
 http://devgroups.org/assets/images/scala.jpg
+http://devgroups.org/assets/images/sfjs.jpg
+http://devgroups.org/assets/images/toronto-javascript.jpg
 http://devgroups.org/assets/js/aightjs.gz.js
 http://devgroups.org/assets/js/aightjs.min.js
 http://devgroups.org/assets/js/application.gz.js
