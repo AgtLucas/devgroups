@@ -78,6 +78,15 @@
         "channel": "fg",
         "publish": true,
         "published_at": "20150403"
+      },
+      {
+        "title": "Node.js Denver/Boulder",
+        "url": "http://www.meetup.com/Node-js-Denver-Boulder/",
+        "description": "A Meetup group for anyone who is currently using or interested in knowing more about Node.js.",
+        "lang": "EN-US",
+        "channel": "s",
+        "publish": true,
+        "published_at": "20150407"
       }
     ]
   }
