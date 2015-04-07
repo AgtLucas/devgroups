@@ -84,7 +84,45 @@
         "url": "http://www.meetup.com/Node-js-Denver-Boulder/",
         "description": "A Meetup group for anyone who is currently using or interested in knowing more about Node.js.",
         "lang": "EN-US",
-        "channel": "s",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "Node.js Denver/Boulder",
+        "url": "http://www.meetup.com/Node-js-Denver-Boulder/",
+        "description": "A Meetup group for anyone who is currently using or interested in knowing more about Node.js.",
+        "lang": "EN-US",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "Node.js Club SF",
+        "url": "http://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF",
+        "description": "This meetup is focused on spreading knowledge and best practices for the use of Node.js. Node is exploding with a massive and dedicated developer community, and is moving into enterprise stacks.",
+        "image": "nodejs-club-sf.jpg",
+        "lang": "EN-US",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "Node.js Paris",
+        "url": "http://www.meetup.com/Nodejs-Paris",
+        "description": "We are a group of enthusiastic developers specializing in Javascript and specifically with Node.js from Paris.",
+        "image": "nodejs-paris.jpg",
+        "lang": "FR",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "Chicago Node.js",
+        "url": "http://www.meetup.com/Chicago-Nodejs/",
+        "description": "A group to discuss Node.js, its frameworks, and best practices.",
+        "lang": "EN-US",
+        "channel": "m",
         "publish": true,
         "published_at": "20150407"
       }

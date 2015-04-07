@@ -10,6 +10,7 @@
     },
     "channel": {
       "s": "Site",
+      "m": "Meetup",
       "gg": "Google Groups",
       "gc": "Google+ Community",
       "fg": "Facebook Groups",

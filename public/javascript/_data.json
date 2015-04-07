@@ -129,6 +129,26 @@
         "channel": "gc",
         "publish": true,
         "published_at": "20150403"
+      },
+      {
+        "title": "Toronto JavaScript",
+        "url": "http://www.meetup.com/torontojs",
+        "description": "Toronto JavaScript is a meet up for those interested in all things JavaScript. Client side, server side, we love it all!",
+        "image": "toronto-javascript.jpg",
+        "lang": "EN-US",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "The SF JavaScript Meetup",
+        "url": "http://www.meetup.com/jsmeetup/",
+        "description": "Hang out and discuss JavaScript tips, tricks, hacks, and frameworks with some of the best scripters around. Show off cool stuff you've done and learn about what else is going on in the JS community.",
+        "image": "sfjs.jpg",
+        "lang": "EN-US",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
       }
     ]
   }

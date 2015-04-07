@@ -79,6 +79,26 @@
         "channel": "gg",
         "publish": true,
         "published_at": "20150403"
+      },
+      {
+        "title": "AngularJS Paris Meetup",
+        "url": "http://www.meetup.com/AngularJS-Paris/",
+        "description": "If you love AngularJS and live in or around Paris, join us!",
+        "image": "angularjs-paris-meetup.jpg",
+        "lang": "FR",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
+      },
+      {
+        "title": "AngularJS London Meetup",
+        "url": "http://www.meetup.com/AngularJS-London/",
+        "description": "AngularJS meetup group in London, UK.",
+        "image": "angularjs-london-meetup.jpg",
+        "lang": "EN",
+        "channel": "m",
+        "publish": true,
+        "published_at": "20150407"
       }
     ]
   }
