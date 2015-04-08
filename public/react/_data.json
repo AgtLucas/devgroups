@@ -51,6 +51,15 @@
         "channel": "gc",
         "publish": true,
         "published_at": "20150403"
+      },
+      {
+        "title": "React Native Community",
+        "url": "https://www.facebook.com/groups/react.native.community/",
+        "description": "Public Facebook group to discuss React Native",
+        "lang": "EN-US",
+        "channel": "fg",
+        "publish": true,
+        "published_at": "20150408"
       }
     ]
   }
